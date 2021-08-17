@@ -60,4 +60,6 @@ fun generateSecret(differentLetters: Boolean): String {
             }
         }
     }
+
+
 }
