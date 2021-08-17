@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Mastermind/Task/build/
+/Mastermind/Task/out/
+/Mastermind/Task/out/production/classes/
+/Mastermind/Task/out/test/classes/
